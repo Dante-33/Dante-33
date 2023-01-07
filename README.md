@@ -22,4 +22,4 @@ It was at that moment when the idea of remote work came to my mind, a source of 
 
 I am open to any feedback and comments, if you think there are things that I've could've done or do better, please don't hesitate to let me know! After all that is why I joined GitHub and hope it makes as promising impact on my journey, as I expect. 🧩🗂💬
 
-*This blog is for personal use only, the main idea is to record my step by step learing process, to better understand the basic fundamentals, get the required assistance and guidance for colleagues on GitHub and buildup some material for the future employees and personal portfolio.*
+*This blog is for personal use only, the main idea is to record my step by step learning process, to better understand the basic fundamentals, get the required assistance and guidance for colleagues on GitHub and buildup some material for the future employees and personal portfolio.*
