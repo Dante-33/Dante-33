@@ -1,4 +1,4 @@
-<h1>Hello, world!👋🏼</h1>
+<h1>Hello, world!👋🏼 https://linktr.ee/dante_dev</h1>
 
 My name is Dante33 and I am planning to begin my journey as self taught programmer, here with GitHub community. I am from Ukraine 🇺🇦 , but due to the ongoing act of aggression and terrorism from our neighbours, I had to leave my country and relocate to Germany 🇩🇪 . Following the news and different analytics about the future outcome of the events in my home country, I've realised that the conflict is not ending any time soon.. so I just have to start organising my life in Germany and thinking of the ways to make profit. I had a full time job in the logistics sphere back in Kyiv, but after my forced relocation, I couldn't continue so I've began my attempts of finding a job in logistics here in Germany, which ended up in a failure due to the lack of German language..
 
@@ -20,6 +20,8 @@ It was at that moment when the idea of remote work came to my mind, a source of 
 4. **Visual Studio as my code editor, get to know it and setup all the necessary plugins.**
 - From what I know at the very moment, pretty much most of the programmers use and recommend Visual Studio Code Editor
 
-I am open to any feedback and comments, if you think there are things that I've could've done or do better, please don't hesitate to let me know! After all that is why I joined GitHub and hope it makes as promising impact on my journey, as I expect. 🧩🗂💬
+I am open to any feedback and comments, if you think there are things that I've could've done or do better, please don't hesitate to let me know! After all that is why I joined GitHub and hope it makes as promising impact on my journey, as I expect. 🧩💬
 
 *This blog is for personal use only, the main idea is to record my step by step learning process, to better understand the basic fundamentals, get the required assistance and guidance for colleagues on GitHub and buildup some material for the future employers and personal portfolio.*
+
+https://linktr.ee/dante_dev
