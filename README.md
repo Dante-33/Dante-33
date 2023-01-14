@@ -1,4 +1,4 @@
-<h1>Hello, world!👋🏼</h1>
+<h1>Hello, world!👋🏼 https://linktr.ee/dante_dev</h1>
 
 My name is Dante33 and I am planning to begin my journey as self taught programmer, here with GitHub community. I am from Ukraine 🇺🇦 , but due to the ongoing act of aggression and terrorism from our neighbours, I had to leave my country and relocate to Germany 🇩🇪 . Following the news and different analytics about the future outcome of the events in my home country, I've realised that the conflict is not ending any time soon.. so I just have to start organising my life in Germany and thinking of the ways to make profit. I had a full time job in the logistics sphere back in Kyiv, but after my forced relocation, I couldn't continue so I've began my attempts of finding a job in logistics here in Germany, which ended up in a failure due to the lack of German language..
 
